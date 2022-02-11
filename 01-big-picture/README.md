@@ -1,0 +1,38 @@
+# Core Python: Big Picture
+
+- Python is an interpreted language.
+- Widely used.
+- Web Development use examples:
+  - API
+    - Flask
+    - Bottle
+    - Pyramid
+  - Website
+    - Django
+    - TurboGears
+    - web2py
+  - App (CMS, ERP)
+    - Plone
+    - django-cms
+    - Mezzanine
+- Data Science used.
+- Machine Learning used.
+- Education and Learning used.
+- Machine Scripting used.
+- What is Python?
+  - Unique syntax (Significant Whitespace)
+  - General purpose (Many use cases)
+  - High level language
+  - Multi paradigm
+  - Garbage collected
+  - Dynamically typed
+- Pros and Cons
+  - Pros:
+    - Comprehensive standard library
+    - Community driven
+    - 3rd party libraries
+    - 3rd party tools
+  - Drawbacks:
+    - Interpreted (slow)
+    - Not native (high memory usage, lack of native security sandbox)
+    - Dynamic (runtime errors)
